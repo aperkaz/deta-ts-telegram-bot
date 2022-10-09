@@ -1,4 +1,4 @@
-# deta-ts-telegram-bot
+# 🤖 deta-ts-telegram-bot
 
 This a started telegram bot, built with TS and deployed using [Deta](https://www.deta.sh/).
 
